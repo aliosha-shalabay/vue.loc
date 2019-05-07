@@ -8,7 +8,7 @@ import Login from '@/components/Auth/Login'
 import Registration from '@/components/Auth/Registration'
 import Orders from '@/components/User/Orders'
 
-
+// dev
 Vue.use(VueRouter)
 
 export default new VueRouter({
